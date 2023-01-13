@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Este es un proyecto independiente para filtrar una lista usando el metodo filter en react js.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
