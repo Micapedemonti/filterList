@@ -1,0 +1,25 @@
+.App{
+  background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 99%);
+height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+}
+.listView{
+  margin-top: 30px;
+}
+.input{
+  padding: 10px;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid black;
+  width: 300px;
+  font-size: 10px;
+  
+}
+.lista  li {
+list-style: none;
+font-size: 20px;
+}
